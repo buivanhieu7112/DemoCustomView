@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoCustomView</string>
+    <string name="erase">Erase</string>
+</resources>
